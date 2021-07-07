@@ -39,7 +39,7 @@ export default function Header() {
                   className="lg:p-4 py-3 px-0 block lg:mb-0 mb-2"
                   
                 >
-                  <button class="bg-white hover:bg-purple-700 hover:text-white text-purple-500 font-bold py-2 px-8 rounded-full">
+                  <button class="bg-white hover:bg-purple-700 hover:text-white font-bold py-2 px-8 rounded-full Global-purple">
                     HIRE ME
                   </button>
                 </a>
