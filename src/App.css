@@ -9,6 +9,22 @@
   pointer-events: none;
 }
 
+.Global-purple {
+  color: #6E3BC7;
+}
+
+.Global-pink {
+  color: #E692D0;
+}
+
+.Global-purple-bg {
+  background-color: #6E3BC7;
+}
+
+.Global-pink-bg {
+  background-color: #E692D0;
+}
+
 .header-height {
   height: 8vh;
 }
@@ -41,8 +57,8 @@
 }
 
 .Package-styles {
-  width: 450px;
-  height: 320px;
+  width: 480px;
+  height: 280px;
   box-shadow: 0px 10px 10px 10px rgba(100, 96, 96, 0.1);
 }
 
@@ -72,6 +88,16 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.Footer-positioning {
+  position: absolute;
+}
+
+.Footer-description {
+  position: relative;
+  top: 0;
+  padding-top: 14rem;
 }
 
 .App-header {

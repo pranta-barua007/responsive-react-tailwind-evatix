@@ -22,7 +22,7 @@ export default function Hero() {
               <p className="text-2xl">product's website </p>
             </div>
             <div className="text-bold text-white py-4">
-              <button class="bg-white border border-white hover:bg-purple-700 hover:text-white text-purple-500 font-bold py-2 px-12 rounded-full">
+              <button class="bg-white border border-white hover:Global-purple-bg hover:text-white font-bold py-2 px-12 rounded-full Global-purple">
                 HIRE ME
               </button>
               <button class="bg-transparent border border-white hover:bg-purple-700 hover:text-white text-white font-bold py-2 px-10 rounded-full ml-4">
