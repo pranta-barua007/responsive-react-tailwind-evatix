@@ -16,7 +16,7 @@ export default function Footer() {
         <p className="text-bold text-white pb-4 text-2xl">
           world in an attractive, efficient and effective way.
         </p>
-        <button class="bg-white border border-white hover:Global-purple hover:text-white font-bold py-2 px-14 mt-6 shadow-lg rounded-full Global-purple">
+        <button class="bg-white hover:bg-purple-500 hover:text-white font-bold py-2 px-14 mt-6 shadow-lg rounded-full Global-purple">
           HIRE ME
         </button>
       </div>
